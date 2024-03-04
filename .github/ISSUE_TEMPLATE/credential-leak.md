@@ -7,7 +7,8 @@ assignees: ''
 
 ---
 
-Date: <dd-mm-yyy>
-Commit: <revision number>
-description:
-<your comments>
+Date: dd-mm-yyy
+
+Commit: revision number
+
+description: your comments
