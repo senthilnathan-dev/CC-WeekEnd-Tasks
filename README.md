@@ -1,2 +1,6 @@
 # CC-WeekEnd-Tasks
-A repo for containing code for code clubs week end tasks
+
+CodeClub Weekend Tasks for both Frontend as well as Backend
+
+Repo owner: Senthilnathan S
+
